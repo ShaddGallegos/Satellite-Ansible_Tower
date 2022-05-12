@@ -1,3 +1,4 @@
+# Satellite-Ansible_Tower
 # Simple Ansible and Satellite Integration ASI - Proof of Concept
 
 These playbooks use Satellite API to create a node in libvirt 
@@ -236,9 +237,3 @@ For convenience sake I have provided a script that will automatically install a 
 [Setting Up Libvirt Host](./libvirt)
 
 [Setting Up Satellite Host](./Satellite)
-
-
-
-
-
-# Satellite-Ansible_Tower
